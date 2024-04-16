@@ -17,7 +17,7 @@
 4. 使用`demo.py`进行简单的演示。
 
 ## 安装依赖
-numpy  1.23.5
-pandas  1.5.3
-torch   2.1.2
-transformers  4.39.0
+- numpy  1.23.5
+- pandas  1.5.3
+- torch   2.1.2
+- transformers  4.39.0
